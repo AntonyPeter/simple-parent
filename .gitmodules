@@ -1,0 +1,6 @@
+[submodule "simple-webapp"]
+	path = simple-webapp
+	url = https://github.com/AntonyPeter/simple-webapp.git
+[submodule "simple-weather"]
+	path = simple-weather
+	url = https://github.com/AntonyPeter/simple-weather.git
